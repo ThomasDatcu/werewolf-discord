@@ -3,7 +3,6 @@ const Role = require('./Role')
 const Player = require('./Player')
 
 // Channel permissions
-// test for push request
 // 265280 -> See and can write (during the day)
 // 263168 -> See but can't write (during the night)
 
