@@ -1,6 +1,7 @@
 const Discord = require('discord.js')
 
 // Channel permissions
+// test for push request
 // 265280 -> See and can write (during the day)
 // 263168 -> See but can't write (during the night)
 
